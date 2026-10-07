@@ -1,13 +1,13 @@
 # V
 ```text
- \             /
-  \           /
-   \         /
-    \       /
-     \     /
-      \   /
-       \ /
-        V
+\             /
+ \           /
+  \         /
+   \       /
+    \     /
+     \   /
+      \ /
+       V
 ```
-V stands for victory, a triumph you can see,
-A valley formed by walls that meet where two lines flee.
+V can stand for victory, a triumph you can see,
+Or a valley's narrow meeting, where two walls agree.

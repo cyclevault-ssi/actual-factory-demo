@@ -1,14 +1,15 @@
 # L
 ```text
-            ##
-            ##
-            ##
-            ##
-            ##
-            ##
-            ##
-            ##############
-            ##############
+   __
+  / /
+ / /
+/ /
+| |
+| |
+| |
+| |
+| |____
+|______|
 ```
-A single stem stands straight and tall,
-then foot extends to form the L, a lean and simple scrawl.
+The letter L is lean and tall, a simple shape that will not fall.
+It starts up high and drops down straight, then turns to form a steady base.

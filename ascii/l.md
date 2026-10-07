@@ -1,15 +1,13 @@
 # L
 ```text
-   __
-  / /
- / /
-/ /
-| |
-| |
-| |
-| |
-| |____
-|______|
+##
+##
+##
+##
+##
+##      ######
+##            ##
+##############
 ```
-The letter L is lean and tall, a simple shape that will not fall.
-It starts up high and drops down straight, then turns to form a steady base.
+The letter L is lean and tall, a single stroke that will not fall.
+It rises up and juts out wide, a steadfast shape with room and pride.

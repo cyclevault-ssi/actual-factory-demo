@@ -1,13 +1,13 @@
 # V
 ```text
-\             /
- \           /
-  \         /
-   \       /
-    \     /
-     \   /
-      \ /
-       V
+ \             /
+  \           /
+   \         /
+    \       /
+     \     /
+      \   /
+       \ /
+        V
 ```
-A narrow valley dips where two steep slopes incline,
-So V can stand for victory, or a valley's sharp design.
+V stands for victory, a triumph you can see,
+A valley formed by walls that meet where two lines flee.

@@ -1,15 +1,13 @@
 # I
-
 ```text
-=====================
-         IIII
-         IIII
-         IIII
-         IIII
-         IIII
-         IIII
-         IIII
-=====================
+========
+   ||
+   ||
+   ||
+   ||
+   ||
+   ||
+========
 ```
-A single straight stroke stands upright and tall.
-In every alphabet, it answers the call.
+The letter I is a single upright line.
+It stands alone, and that suits it just fine.
